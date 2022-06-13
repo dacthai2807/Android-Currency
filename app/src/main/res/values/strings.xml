@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Currency</string>
+    <string-array name="item_array">
+        <item>US - $</item>
+        <item>Việt Nam - VNĐ</item>
+        <item>Japan - ¥</item>
+        <item>Europe - €</item>
+    </string-array>
+</resources>
